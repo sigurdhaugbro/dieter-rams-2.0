@@ -63,3 +63,10 @@ img {
 	padding: 10px;
 	text-align: center;
 }
+
+.header {
+	color: black;
+	font-style: italic;
+	font-size: 5rem;
+	margin: 10px;
+}
