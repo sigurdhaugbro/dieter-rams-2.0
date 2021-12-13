@@ -37,6 +37,12 @@ img {
 	color: black;
 	font-style: italic;
 	font-size: 5rem;
+	transition: 1s;
+}
+
+.go-to-section__button:hover {
+	font-size: 5.5em;
+	transition: 1s;
 }
 
 .speaker-img {
